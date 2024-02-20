@@ -1,1 +1,1 @@
-This reposity is for interviewers.
+This repository is for interviewers.
