@@ -1,1 +1,1 @@
-This repository is for interviewers.
+This repository is for employer, clients.
