@@ -1,1 +1,1 @@
-This repository is for employer, clients.
+This repository is for employers, clients.
